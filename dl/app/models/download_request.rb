@@ -1,0 +1,3 @@
+class DownloadRequest < ApplicationRecord
+    
+end
