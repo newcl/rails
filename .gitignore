@@ -1,0 +1,4 @@
+./tmp/**
+*.log
+dl/tmp/**
+dl/tmp/*/**
